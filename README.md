@@ -1,6 +1,8 @@
 
+# Learning about Python Classes
+# Employee System
 
-# Classes
+## Classes
 
 **Employee**
 * Must pass in First Name (str), Last Name (str), Salary (int)
