@@ -1,15 +1,17 @@
-**Classes**
-	**Employee**
-		Must pass in First Name (str), Last Name (str), Salary (int)
-			When printed, outputs all of its information
-			When casted into a string, the salary is used
-			Has a 'Raise Amount' of 5%
-				Can be added to the employee's salary by using the .apply_raise() method
-				Can be directly modified by assigning an integer value to the class variable
+
+# Classes
+
+**Employee**
+* Must pass in First Name (str), Last Name (str), Salary (int)
+* When printed, outputs all of its information
+* When casted into a string, the salary is used
+* Has a 'Raise Amount' of 5%
+* Can be added to the employee's salary by using the .apply_raise() method
+*  * Can be directly modified by assigning an integer value to the class variable
 					Ex: x.raiseAmt = 2  <--Directly modifies the class variable, applying it to all instances
-	**Manager**
-		Must pass in First Name (str), Last Name (str), Salary (int), and the employees under their management (list)
-		When printed, outputs all of its information
+* **Manager**
+	* Must pass in First Name (str), Last Name (str), Salary (int), and the employees under their management (list)
+	* When printed, outputs all of its information
 		When casted into a string, the salary is used
 		Has a 'Raise Amount' of 10%
 			Can be added to the employee's salary by using the .apply_raise() method
