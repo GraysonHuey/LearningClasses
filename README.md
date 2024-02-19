@@ -1,8 +1,8 @@
 
-# Learning about Python Classes
+# _Learning about Python Classes_
 # Employee System
 
-## Classes
+## Classes:
 
 **Employee**
 * Must pass in First Name (str), Last Name (str), Salary (int)
